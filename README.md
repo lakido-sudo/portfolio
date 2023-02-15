@@ -1,3 +1,4 @@
 # Portfolio
 
 Hello everyone, this is a repository with some of my projects.
+Всем привет, это репозиторий с некоторыми из моих проектов.
